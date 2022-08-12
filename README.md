@@ -1,3 +1,5 @@
 # rendimentos-mensais-
 Cálculo de Rendimentos Mensais 
-Com envio automático
+
+Com envio automático por email
+
